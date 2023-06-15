@@ -1,0 +1,11 @@
+.container{   
+    max-width: 500px;
+    background-color: none;    
+    margin: auto;
+    overflow: auto;
+    min-height: 320px;
+    border: 3px solid crimson;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
